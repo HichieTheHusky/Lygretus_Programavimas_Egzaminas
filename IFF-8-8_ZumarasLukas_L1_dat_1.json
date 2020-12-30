@@ -1,0 +1,129 @@
+[
+  {
+    "Name":  "Reference Nvidia GTX 2070 Super",
+    "MSRP": 499,
+    "Score": 10.05
+  },
+
+  {
+    "Name":  "Asus Nvidia GTX 2070 Super",
+    "MSRP": 499,
+    "Score": 10.06
+  },
+  {
+    "Name":  "Palit Nvidia GTX 2070 Super",
+    "MSRP": 499,
+    "Score": 10.01
+  },
+  {
+    "Name":  "Gigabyte Nvidia GTX 2070 Super",
+    "MSRP": 499,
+    "Score": 10.04
+  },
+  {
+    "Name":  "evga Nvidia GTX 2070 Super",
+    "MSRP": 490,
+    "Score": 9.94
+  },
+  {
+    "Name":  "inno3d Nvidia GTX 2070 Super",
+    "MSRP": 489,
+    "Score": 10.0
+  },
+  {
+    "Name":  "msi Nvidia GTX 2070 Super",
+    "MSRP": 499,
+    "Score": 10.07
+  },
+  {
+    "Name":  "zotac Nvidia GTX 2070 Super",
+    "MSRP": 499,
+    "Score": 10.04
+  },
+  {
+    "Name":  "pny Nvidia GTX 2070 Super",
+    "MSRP": 489,
+    "Score": 9.95
+  },
+  {
+    "Name":  "saphire Nvidia GTX 2070 Super",
+    "MSRP": 490,
+    "Score": 9.96
+  },
+  {
+    "Name":  "Reference Nvidia GTX 2070 ",
+    "MSRP": 399,
+    "Score": 9.05
+  },
+
+  {
+    "Name":  "Asus Nvidia GTX 2070 ",
+    "MSRP": 399,
+    "Score": 9.06
+  },
+  {
+    "Name":  "Palit Nvidia GTX 2070 ",
+    "MSRP": 399,
+    "Score": 9.01
+  },
+  {
+    "Name":  "Gigabyte Nvidia GTX 2070 ",
+    "MSRP": 399,
+    "Score": 9.04
+  },
+  {
+    "Name":  "evga Nvidia GTX 2070 ",
+    "MSRP": 390,
+    "Score": 8.94
+  },  {
+    "Name":  "inno3d Nvidia GTX 2070 ",
+    "MSRP": 389,
+    "Score": 9.0
+  },
+  {
+    "Name":  "msi Nvidia GTX 2070 ",
+    "MSRP": 399,
+    "Score": 9.07
+  },
+  {
+    "Name":  "zotac Nvidia GTX 2070 ",
+    "MSRP": 399,
+    "Score": 9.04
+  },
+  {
+    "Name":  "pny Nvidia GTX 2070 ",
+    "MSRP": 389,
+    "Score": 8.95
+  },
+  {
+    "Name":  "saphire Nvidia GTX 2070 ",
+    "MSRP": 390,
+    "Score": 8.96
+  },
+  {
+    "Name":  "Reference Nvidia GTX 2060 Super",
+    "MSRP": 349,
+    "Score": 8.85
+  },
+
+  {
+    "Name":  "Asus Nvidia GTX 2060 Super",
+    "MSRP": 349,
+    "Score": 8.86
+  },
+  {
+    "Name":  "Palit Nvidia GTX 2060 Super",
+    "MSRP": 349,
+    "Score": 8.51
+  },
+  {
+    "Name":  "Gigabyte Nvidia GTX 2060 Super",
+    "MSRP": 349,
+    "Score": 8.54
+  },
+  {
+    "Name":  "evga Nvidia GTX 2060 Super",
+    "MSRP": 340,
+    "Score": 8.24
+  }
+]

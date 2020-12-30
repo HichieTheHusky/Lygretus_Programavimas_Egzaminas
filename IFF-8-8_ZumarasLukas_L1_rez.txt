@@ -1,0 +1,6 @@
+
+Lentelė : 
+                           Pavadinimas | Kaina |  Gretis | Santikis
+       Reference Nvidia GTX 2070 Super |   499 |   10.05 | 49.65174129353233
+        Gigabyte Nvidia GTX 2070 Super |   499 |   10.04 | 49.70119521912351
+ Palit jetstream Nvidia GTX 2070 Super |   499 |   10.01 | 49.850149850149855

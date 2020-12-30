@@ -1,0 +1,131 @@
+[
+  {
+  "Name":  "Reference Nvidia GTX 2080 TI",
+  "MSRP": 999,
+  "Score": 12.85
+  },
+
+  {
+  "Name":  "Asus Strix Nvidia GTX 2080 TI",
+  "MSRP": 1099,
+  "Score": 13.25
+  },
+  {
+  "Name":  "Palit jetstream Nvidia GTX 2080 TI",
+  "MSRP": 999,
+  "Score": 12.95
+  },
+  {
+  "Name":  "Gigabyte Nvidia GTX 2080 TI",
+  "MSRP": 999,
+  "Score": 12.9
+  },
+  {
+  "Name":  "evga Nvidia GTX 2080 TI",
+  "MSRP": 945,
+  "Score": 12.89
+  },
+  {
+  "Name":  "inno3d Nvidia GTX 2080 TI",
+  "MSRP": 945,
+  "Score": 12.80
+  },
+  {
+  "Name":  "msi Nvidia GTX 2080 TI",
+  "MSRP": 945,
+  "Score": 12.75
+  },
+  {
+  "Name":  "zotac Nvidia GTX 2080 TI",
+  "MSRP": 945,
+  "Score": 12.70
+  },
+  {
+  "Name":  "pny Nvidia GTX 2080 TI",
+  "MSRP": 945,
+  "Score": 12.65
+  },
+  {
+  "Name":  "saphire Nvidia GTX 2080 TI",
+  "MSRP": 945,
+  "Score": 12.60
+  },
+  {
+  "Name":  "Reference Nvidia GTX 2080 ",
+  "MSRP": 649,
+  "Score": 10.85
+  },
+
+  {
+  "Name":  "Asus Strix Nvidia GTX 2080 ",
+  "MSRP": 749,
+  "Score": 11.05
+  },
+  {
+  "Name":  "Palit jetstream Nvidia GTX 2080 ",
+  "MSRP": 649,
+  "Score": 10.95
+  },
+  {
+  "Name":  "Gigabyte Nvidia GTX 2080 ",
+  "MSRP": 649,
+  "Score": 10.9
+  },
+  {
+  "Name":  "evga Nvidia GTX 2080 ",
+  "MSRP": 649,
+  "Score": 10.75
+  },
+  {
+  "Name":  "inno3d Nvidia GTX 2080 ",
+  "MSRP": 649,
+  "Score": 10.70
+  },
+  {
+  "Name":  "msi Nvidia GTX 2080 ",
+  "MSRP": 649,
+  "Score": 10.65
+  },
+  {
+  "Name":  "zotac Nvidia GTX 2080 ",
+  "MSRP": 649,
+  "Score": 10.60
+  },
+  {
+  "Name":  "pny Nvidia GTX 2080 ",
+  "MSRP": 649,
+  "Score": 10.55
+  },
+  {
+  "Name":  "saphire Nvidia GTX 2080 ",
+  "MSRP": 649,
+  "Score": 10.59
+  },
+
+  {
+    "Name":  "Reference Nvidia GTX 2080 Super",
+    "MSRP": 699,
+    "Score": 11.35
+  },
+
+  {
+    "Name":  "Asus Strix Nvidia GTX 2080 Super",
+    "MSRP": 749,
+    "Score": 11.45
+  },
+  {
+    "Name":  "Palit jetstream Nvidia GTX 2080 Super",
+    "MSRP": 699,
+    "Score": 11.35
+  },
+  {
+    "Name":  "Gigabyte Nvidia GTX 2080 Super",
+    "MSRP": 699,
+    "Score": 11.35
+  },
+  {
+    "Name":  "evga Nvidia GTX 2080 Super",
+    "MSRP": 699,
+    "Score": 11.30
+  }
+]
